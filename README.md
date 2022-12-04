@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-<!--
-**marianeso/marianeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mariane Souza, e atualmente trabalho com Desenvolvimento iOS.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍🎓 Fui monitora de Programação durante a minha graduação na PUC-Rio.
+
+- 📚 Comecei a estudar a linguagem Swift para fazer meus próprios aplicativos.
+
+- ⭐ Tenho 3 projetinhos no GitHub que mostram um pouco do meu conhecimento.
+
+- 👩‍💻 Atualmente atuo como Desenvolvedora iOS na AtlasTech.
+
+- 🍎 Apaixonada pelos produtos da Apple. 
+
+- 😊 Curiosidades: Adoro maratonar séries, viajar e amo doguinhos 🐶 .
